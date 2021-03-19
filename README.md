@@ -30,7 +30,6 @@ do
         if [[ -n "$dead" ]]; then
             failure
             printf "at times failure is inevitable, what matters is what u learn from it\n"
-            echo
         else
             echo "Alas! ur journey has come to an end"
         fi
