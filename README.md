@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### motto
+```shell
+#!/bin/bash
+failure() {
+    printf "next possible solution\n" >> knowledge.db
+}
+
+while :
+do
+  read -p  "success : " success
+    if [[ -z "$success" ]]; then
+        read -p "perhaps i'm talking to a ghost? : " dead
+        if [[ -n "$dead" ]]; then
+            failure
+            echo "at times failure is inevitable, what matters is what u learn from it"
+            echo
+        else
+            echo "Alas! ur journey has come to an end"
+        fi
+    elif [[ ${success} == false ]]; then
+        echo "keep trying ... persistence is key!\n"
+        echo
+        failure                                                                                                                                                 
+    else                                                                                                         
+        echo "GG ...onto the next problem"                                                                            
+        break                                                          
+    fi                                                                                 
+done                         
+```
