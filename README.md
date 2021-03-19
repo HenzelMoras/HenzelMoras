@@ -42,10 +42,10 @@ do
     fi                                                                                 
 done                         
 ```
-### :vulcan_salute: greetings
+###  greetings :vulcan_salute:
 
-🌱 I’m currently learning Web security , System Administration
-👯 I’m looking to collaborate on Python Open Source Projects
-💬 Ask me about: Python, Bash, CLI, Django and so many others.
-📫 How to reach me: henzelmoras@gmail.com
+- 🌱 I’m currently learning Web security , System Administration
+- 👯 I’m looking to collaborate on Python Open Source Projects
+- 💬 Ask me about: Python, Bash, CLI, Django and so many others.
+- 📫 How to reach me: henzelmoras@gmail.com
 
