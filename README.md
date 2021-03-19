@@ -43,5 +43,5 @@ do
 done                         
 ```
 🌱 I’m currently learning 
-<img src="https://github.com/HenzelMoras/HenzelMoras/blob/e8927fb3ac2cd334e31ff0fd0dcdaec5e8f6aea6/images/python.jpg" alt="python" width="50" height="50">
+
 
