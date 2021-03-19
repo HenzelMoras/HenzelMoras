@@ -42,6 +42,10 @@ do
     fi                                                                                 
 done                         
 ```
-🌱 I’m currently learning 
+### :vulcan_salute: greetings
 
+🌱 I’m currently learning Web security , System Administration
+👯 I’m looking to collaborate on Python Open Source Projects
+💬 Ask me about: Python, Bash, CLI, Django and so many others.
+📫 How to reach me: henzelmoras@gmail.com
 
