@@ -38,7 +38,7 @@ do
         printf "keep trying ... persistence is key!\n"
         failure                                                                                                                                                 
     else                                                                                                         
-        printf "GG ...onto the next problem\n"                                                                                                  
+        echo "GG ...onto the next problem"                                                                                                  
     fi                                                                                 
 done                         
 ```
