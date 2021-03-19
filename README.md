@@ -29,14 +29,13 @@ do
         read -p "perhaps i'm talking to a ghost? : " dead
         if [[ -n "$dead" ]]; then
             failure
-            echo "at times failure is inevitable, what matters is what u learn from it"
+            printf "at times failure is inevitable, what matters is what u learn from it\n"
             echo
         else
             echo "Alas! ur journey has come to an end"
         fi
     elif [[ ${success} == false ]]; then
-        echo "keep trying ... persistence is key!\n"
-        echo
+        printf "keep trying ... persistence is key!\n"
         failure                                                                                                                                                 
     else                                                                                                         
         echo "GG ...onto the next problem"                                                                            
