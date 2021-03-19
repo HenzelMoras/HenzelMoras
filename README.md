@@ -46,6 +46,6 @@ done
 
 - 🌱 I’m currently learning Web security , System Administration
 - 👯 I’m looking to collaborate on Python Open Source Projects
-- 💬 Ask me about: Python, Bash<img src="https://github.com/HenzelMoras/HenzelMoras/blob/1b1b2cb23faf9d91bcc3aa4abcc66b00b77927e8/images/bash.png" alt="bash" width="30">, CLI, Django and so many others.
+- 💬 Ask me about: Python, Bash, CLI, Django and so many others.
 - 📫 How to reach me: henzelmoras@gmail.com
 
