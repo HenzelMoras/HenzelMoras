@@ -32,6 +32,7 @@ do
             printf "at times failure is inevitable, what matters is what u learn from it\n"
         else
             echo "Alas! ur journey has come to an end"
+            break
         fi
     elif [[ ${success} == false ]]; then
         printf "keep trying ... persistence is key!\n"
