@@ -27,6 +27,7 @@ do
   read -p  "success : " success
     if [[ -z "$success" ]]; then
         read -p "perhaps i'm talking to a ghost? : " dead
+        echo
         if [[ -n "$dead" ]]; then
             failure
             printf "at times failure is inevitable, what matters is what u learn from it\n"
