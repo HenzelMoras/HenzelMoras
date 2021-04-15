@@ -48,4 +48,4 @@ done
 - 👯 I’m looking to collaborate on Python Open Source Projects
 - 💬 Ask me about: Python, Bash, CLI, Django and so many others.
 - 📫 How to reach me: henzelmoras@gmail.com
-- :pencil2: My Blog: henzelmoras.github.io
+- :pencil2: My Blog: https://henzelmoras.github.io
