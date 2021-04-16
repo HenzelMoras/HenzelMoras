@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     Imagination is more important than knowledge.<br>
     For knowledge is limited, whereas imagination embraces the entire world,<br>
     stimulating progress, giving birth to evolution.
+        <p align="right">-- Albert Einstein</p>
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
