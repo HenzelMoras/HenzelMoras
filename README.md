@@ -55,7 +55,6 @@ done
 ```
 </details>
 
-<p align="center">
      
 ###  greetings :vulcan_salute:
 
@@ -65,4 +64,4 @@ done
 - 📫 How to reach me: henzelmoras@gmail.com
 - :pencil2: My Blog: https://henzelmoras.github.io
 
-</p>
+
