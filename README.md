@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"><strong><samp>「</samp></strong></p><p align="center">
+    <samp>
+    Imagination is more important than knowledge.<br>
+    For knowledge is limited, whereas imagination embraces the entire world,<br>
+    stimulating progress, giving birth to evolution.
+    </samp>
+    <br>
+</p><p align="right"><strong><samp>」</samp></strong></p>
+<br>
 <details>
      <summary> motto.sh </summary>
     
@@ -45,6 +54,8 @@ done
 ```
 </details>
 
+<p align="center">
+     
 ###  greetings :vulcan_salute:
 
 - 🌱 I’m currently learning Web security , System Administration
@@ -52,3 +63,5 @@ done
 - 💬 Ask me about: Python, Bash, CLI, Django and so many others.
 - 📫 How to reach me: henzelmoras@gmail.com
 - :pencil2: My Blog: https://henzelmoras.github.io
+
+</p>
