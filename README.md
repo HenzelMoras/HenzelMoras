@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <details>
-     <summary> motto.sh </summary>
+     <summary align="center"> motto.sh </summary>
     
 ```shell
 #!/bin/bash
