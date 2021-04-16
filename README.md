@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### motto.sh
+<details>
+     <summary> motto.sh </summary>
+    
 ```shell
 #!/bin/bash
 failure() {
@@ -42,6 +43,8 @@ do
     fi                                                                                 
 done                         
 ```
+</details>
+
 ###  greetings :vulcan_salute:
 
 - 🌱 I’m currently learning Web security , System Administration
