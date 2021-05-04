@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
     Imagination is more important than knowledge.<br>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         <p align="right">-- Albert Einstein</p>
     </samp>
     <br>
--->
+
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <details>
