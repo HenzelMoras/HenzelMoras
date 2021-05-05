@@ -57,7 +57,7 @@ done
 ```
 </details>
 <details align="center">
-     <summary align="center"> ⚷ public key </summary>
+     <summary align="center">  public key </summary>
  
  
         -----BEGIN PGP PUBLIC KEY BLOCK-----
