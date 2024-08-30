@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###  greetings :vulcan_salute:
 
 - 🌱 I’m currently learning Web security , System Administration
--  I’m looking to collaborate on Python Open Source Projects
+- :pencil2: I’m looking to collaborate on Python Open Source Projects
 - 💬 Ask me about: Python, Bash, CLI, Django and so many others.
 - 📫 How to reach me: henzelmoras@gmail.com
 - :pencil2: My Blog: https://henzelmoras.github.io
